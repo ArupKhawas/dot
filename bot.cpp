@@ -1,8 +1,8 @@
 #include <iostream>
-void noob (){
+void tob() {
     //
 }
 int main ()
 {
-std::cout("Hello World");
+std::cout("Hello World")
 }
